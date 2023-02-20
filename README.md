@@ -1,3 +1,2 @@
-# TradingAI
-First Trading AI,
-Prediction made easier.
+# Trading
+Lil project about trading predictions :/
