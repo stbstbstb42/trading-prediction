@@ -1,2 +1,2 @@
 # Trading
-Lil project about trading predictions :/
+semplified trading predictor in a nutshell
