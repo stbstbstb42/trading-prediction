@@ -1,2 +1,2 @@
 # Trading
-semplified trading predictor in a nutshell
+simplified trading predictor in a nutshell
